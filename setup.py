@@ -16,7 +16,7 @@ from distutils.command.build_ext import build_ext
 from distutils.command.install import install
 from distutils.command.install_lib import install_lib
 
-# This global variable is used to hold the list of modules to be disabled.
+# This global variable is used to hold the list of modules to be disabled.khushi
 disabled_module_list = []
 
 def add_dir_to_list(dirlist, dir):
