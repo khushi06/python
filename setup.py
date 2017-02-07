@@ -7,7 +7,7 @@ import sys, os, imp, re, optparse
 from glob import glob
 from platform import machine as platform_machines
 
-from distutils import log
+from distutils import lo
 from distutils import sysconfig
 from distutils import text_file
 from distutils.errors import *
